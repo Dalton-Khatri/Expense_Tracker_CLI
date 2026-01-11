@@ -1,0 +1,14 @@
+[
+  {
+    "amount": 10000.0,
+    "category": "Monthly",
+    "date": "2026/01/01",
+    "note": "monthly expense"
+  },
+  {
+    "amount": 4000.0,
+    "category": "Rent",
+    "date": "2026/01/01",
+    "note": "Monthly rent"
+  }
+]
