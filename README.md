@@ -27,4 +27,20 @@ Built as part of my coding journey, this project demonstrates **Python programmi
 ---
 
 ## 📂 File Structure
+Expense_Tracker_CLI/
+│
+├── expense_tracker.py # Main Python script
+├── expenses.json # JSON file storing expenses
+└── README.md # Project documentation
+
+
+---
+
+## 🎯 How to Use
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/Dalton-Khatri/Expense_Tracker_CLI.git
+cd Expense_Tracker_CLI
+
 
