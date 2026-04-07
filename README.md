@@ -27,11 +27,11 @@ Built as part of my coding journey, this project demonstrates **Python programmi
 ---
 
 ## 📂 File Structure
-Expense_Tracker_CLI/
-│
-├── expense_tracker.py # Main Python script
-├── expenses.json # JSON file storing expenses
-└── README.md # Project documentation
+Expense_Tracker_CLI/<br>
+│<br>
+├── expense_tracker.py # Main Python script<br>
+├── expenses.json # JSON file storing expenses<br>
+└── README.md # Project documentation<br>
 
 
 ---
